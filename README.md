@@ -8,13 +8,13 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 <ul>
   <li>Equipment</li>
     <ul>
-      <li>EUD Mounts</li>
+      <li>Mounts</li>
         <ul>
             <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#examples-of-euds-mounted-to-armor">Chest Mount</a></li>
             <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#magazine-mount">Magazine Mount</a></li>
         </ul>
       <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#case-manufacturers">Case Manufacturers</a></li>
-      <li>Plate Carrier Adapters</li>
+      <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#adapters">Plate Carrier Adapters</a></li>
     </ul>
       <li>Indented item</li>
       <li>Indented item</li>
@@ -26,7 +26,7 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 
 # Equipment
 
-## Mounting Examples:
+## Mounts
 
 #### Chest Mount
 | Chest Mount Example 1 | Chest Mount Example 2 |
@@ -47,8 +47,13 @@ There are only a few case manufacturers aside from the Chinesium copies. Here is
 - <a href="https://juggernautcase.com/">Juggernaut</a> - Most protective cases with moderate device flexibility for newer devices.
 - <a href="https://kagwerks.shop/collections/operators-kits">Kagwerks</a> - Most expensive with least amount of device options.
 - <a href="https://www.sandsprecision.com/nav-gear.html">S&S Precision</a> - Most device flexibility with the most accessories and lest protection.
+- <a href="https://thyrm.com/product-category/darkvault/">Thyrm</a> - Very protective but very bulky with moderate device flexibility.
 
 ### Adapters:
+If your plate carrier or rig does not have molle in the correct areas to mount your device, there are adapters.
 - Haley Strategic - <a href="https://haleystrategic.com/end-user-device-bridge">End User Device Bridge</a>
 - Ferro Concepts - <a href="https://ferroconcepts.com/collections/general-purpose/products/adapt-molle-panel">Adapter Molle Panel</a>
 - AXL - <a href="https://www.axladvanced.com/products/mfcr-full-molle-panel">MFCR Full Molle Panel</a>
+
+S&S Precision also makes a stand-alone harness for the NavBoard FlipLite. <a href="https://www.sandsprecision.com/nav-gear/navboard-fliplite-1.html">https://www.sandsprecision.com/nav-gear/navboard-fliplite-1.html<a/>
+
