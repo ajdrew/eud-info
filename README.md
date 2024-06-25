@@ -112,4 +112,11 @@ One of the secondary goal of running an EUD is to have it control your voice com
 
 This is significantly more difficult to do. The standard for the civilian world is the Baofeng radio for voice either with GMRS or Ameture Radio running over the VHF/UHF. This is the easiest, most capable, and most inexpensive solution to team based communications for civilians.
 
-There are options within ATAK (such as the Hammer plug-in) that may work with Baofeng radios. That is complicated to setup with little direction.  
+There are options within ATAK (such as the Hammer plug-in) that may work with Baofeng radios. That is complicated to setup with little direction. 
+
+- https://meshtastic.org/docs/software/integrations/integrations-atak-plugin/
+- https://www.plugnix.com/
+- https://beartooth.com/
+- https://www.persistentsystems.com/mpu5/
+- https://docs.google.com/document/d/e/2PACX-1vQ-CQPKQoxwUs22BxCVVWEgoi6T5WjK5gj4A6dTuFdoL3xQOzWndhEsBhI49IOAK_8EMrfJ6XgIs75I/pub
+- https://play.google.com/store/apps/details?id=com.atakmap.android.gbr.vx.plugin&hl=en_US
