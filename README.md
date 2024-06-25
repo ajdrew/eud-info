@@ -8,7 +8,7 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 <ul>
   <li>EUD Mounts</li>
     <ul>
-      <li>Chest Mount</li>
+      <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#examples-of-euds-mounted-to-armor">Chest Mount</a></li>
       <li>Magazine Mount</li>
     </ul>
   <li>Second item</li>
@@ -20,10 +20,6 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
   </li>
   <li>Fourth item</li>
 </ul> 
-
-
-[EUD Mounts - Chest] (https://github.com/ajdrew/eud-info?tab=readme-ov-file#examples-of-euds-mounted-to-armor)
-- [EUD Mounts - Magainze] ()
 
 
 
