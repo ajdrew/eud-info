@@ -84,56 +84,29 @@ Here are a couple of equipment combinations below. This considers three things, 
 - Mobile devices with dimensions less than ...
 - Thyrm DarkVault or DarkVault 2.0 - https://thyrm.com/product-category/darkvault/
 
-
-EUD Uses:
-The main use for an EUD is ATAK (Android Tactical Assault Kit). ATAK is used to coordinate resources better by providing mapping, communication tools, and asset coordination in a single app ecosystem. 
-
-Other civilian uses may be more map oriented with apps like OnX.
-
-Alternatives:
+## Alternatives:
 There other types of devices that offer more protection than your standard mobile device such as:
 - Panisonic N1 Tactical (newer model of the FZ-N1).
 - Samsung Galaxy S6 and S8 Active (older phones that were built to military specs as early ATAK devices).
 - Garmin Rino series devices (location sharing and GMRS radio only).
+- MP5 Radio
 
-Communications:
-One of the secondary goal of running an EUD is to have it control your voice communications. The military uses PRC-152 and the military version of ATAK can fully control those radios. It also offers the ability to share data over a channel and have voice traffic over another channel.
-
-This is significantly more difficult to do. The standard for the civilian world is the Baofeng radio for voice either with GMRS or Ameture Radio running over the VHF/UHF. This is the easiest, most capable, and most inexpensive solution to team based communications for civilians.
-
-There are options within ATAK (such as the Hammer plug-in) that may work with Baofeng radios. That is complicated to setup with little direction.  
-
-
-Cases:
-- Pelican
-- Otterbox
-- Magpul
-
-Device Matrix:
-EUD Uses:
-The main use for an EUD is ATAK (Android Tactical Assault Kit). ATAK is used to coordinate resources better by providing mapping, communication tools, and asset coordination in a single app ecosystem. 
-
-Other civilian uses may be more map oriented with apps like OnX.
-
-Alternatives:
-There other types of devices that offer more protection than your standard mobile device such as:
-- Panisonic N1 Tactical (newer model of the FZ-N1).
-- Samsung Galaxy S6 and S8 Active (older phones that were built to military specs as early ATAK devices).
-- Garmin Rino series devices (location sharing and GMRS radio only).
-
-Communications:
-One of the secondary goal of running an EUD is to have it control your voice communications. The military uses PRC-152 and the military version of ATAK can fully control those radios. It also offers the ability to share data over a channel and have voice traffic over another channel.
-
-This is significantly more difficult to do. The standard for the civilian world is the Baofeng radio for voice either with GMRS or Ameture Radio running over the VHF/UHF. This is the easiest, most capable, and most inexpensive solution to team based communications for civilians.
-
-There are options within ATAK (such as the Hammer plug-in) that may work with Baofeng radios. That is complicated to setup with little direction.  
-
-
-Cases:
-- Pelican
-- Otterbox
-- Magpul
-
-Device Matrix:
+## Device Matrix:
 https://thyrm.com/product/darkvault-2/
 https://thyrm.com/product/darkvault/
+
+
+
+# Software:
+The main use for an EUD is ATAK (Android Tactical Assault Kit). ATAK is used to coordinate resources better by providing mapping, communication tools, and asset coordination in a single app ecosystem. 
+
+Other civilian uses may be more map oriented with apps like OnX.
+
+
+
+# Communications:
+One of the secondary goal of running an EUD is to have it control your voice communications. The military uses PRC-152 and the military version of ATAK can fully control those radios. It also offers the ability to share data over a channel and have voice traffic over another channel.
+
+This is significantly more difficult to do. The standard for the civilian world is the Baofeng radio for voice either with GMRS or Ameture Radio running over the VHF/UHF. This is the easiest, most capable, and most inexpensive solution to team based communications for civilians.
+
+There are options within ATAK (such as the Hammer plug-in) that may work with Baofeng radios. That is complicated to setup with little direction.  
