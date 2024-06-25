@@ -6,13 +6,14 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 
 # Outline:
 <ul>
-  <li>EUD Mounts</li>
+  <li>Equipment</li>
+    <ul>EUD Mounts</ul>
     <ul>
       <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#examples-of-euds-mounted-to-armor">Chest Mount</a></li>
       <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#magazine-mount">Magazine Mount</a></li>
     </ul>
-  <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#case-manufacturers">Case Manufacturers</a></li>
-  <li>Third item
+    <ul><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#case-manufacturers">Case Manufacturers</a></ul>
+    <ul>Plate Carrier Adapters</ul>
     <ul>
       <li>Indented item</li>
       <li>Indented item</li>
