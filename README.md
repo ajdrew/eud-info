@@ -10,11 +10,6 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 
 
 
-
-| Chest Mount Example 1 | Chest Mount Example 2 |
-| ----------- | ----------- |
-| ![EUD chest mount 1](/resources/pictures/eud-chest-mount1.png) | ![EUD chest mount 2](/resources/pictures/eud-chest-mount2.png)  | 
-
 ## Examples of EUDs Mounted to Armor:
 
 ### Chest Mount
