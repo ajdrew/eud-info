@@ -60,27 +60,27 @@ S&S Precision also makes a stand-alone harness for the NavBoard FlipLite. <a hre
 ## Equipment Combinations:
 Here are a couple of equipment combinations below. This considers three things, the device, case, and molle mount.
 
-* The best device with the most protection: *
+*The best device with the most protection:*
 - Samsung Galaxy S20 5G SM-G981U1
 - Juggernaut IMPCT case
 - Juggernaut Armor.Mount Plate Carrier PALS/MOLLE
 - OR Juggernaut Inductive Charge Armor.Mount
 - NOTE: This gets the user into a modern device with the most protective case and readily available armor mounts with or without inductive charging. 
 
-* Alternative best device with most protection: *
+*Alternative best device with most protection:*
 - Samsung Galaxy S20 5G SM-G981U1
 - 
 
-* Device with removable battery: *
+*Device with removable battery:*
 - Panasonic FZ-N1 (Tactical Edition) (The model without the barcode scanner) (possible issue due to age of Android)
 - Juggernaut IMPCT Case -  https://juggernautcase.com/products/panasonic-fz-n1-toughpad-case-tactical-version.html
 - Juggernaut Armor Mount - https://juggernautcase.com/products/fz-n1-armor-mount-plate-carrier-pals-molle.html 
 
-* General devices - S&S Precision: *
+*General devices - S&S Precision:*
 - Mobile devices with dimensions less than 6.75” L x 3.5” W.
 - S&S NavBoard FlipLite - https://www.sandsprecision.com/nav-gear/navboard-fliplite.html 
 
-* General devices - Thyrm: *
+*General devices - Thyrm:*
 - Mobile devices with dimensions less than ...
 - Thyrm DarkVault or DarkVault 2.0 - https://thyrm.com/product-category/darkvault/
 
