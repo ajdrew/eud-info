@@ -19,8 +19,8 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
       <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#alternatives">Alternatives</a></li>
       <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#device-matrix">Device Matrix</a></li>
     </ul>
-    <li>Indented item</li>
-    <li>Indented item</li>
+    <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#software">Software</a></li>
+    <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#communications">Communications</a></li>
     </ul>
   </li>
   <li>Fourth item</li>
