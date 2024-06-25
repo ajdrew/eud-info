@@ -5,7 +5,24 @@
 EUDs (End User Devices) are the hot ticket item for your tactical kit. They are the latest iteration of injecting technology into the shoot, move, communicate protocol. They are basically mobile devices with rugged cases and armor mounts running ATAK (Android Tactical Assault Kit). ATAK provides mapping, data sharing, communications, and asset coordination for a group. However, while ATAK is very much a mature product for the military, it is difficult for the average person to fully grasp and implement all the features of ATAK. This stunted use on the civilian side of the house comes from the lack of resources ATAK was originally released with and the lack of easy implementation documentation. Both resources for both individual and server-based implementation of ATAK have definitely improved, but are still time intensive to setup and fully grasp. Large events, such as Milsim West, are now using ATAK to monitor health and status of players and teams for unit level organization.
 
 # Outline:
-- [EUD Mounts - Chest] (https://github.com/ajdrew/eud-info?tab=readme-ov-file#examples-of-euds-mounted-to-armor)
+<ul>
+  <li>EUD Mounts</li>
+    <ul>
+      <li>Chest Mount</li>
+      <li>Magazine Mount</li>
+    </ul>
+  <li>Second item</li>
+  <li>Third item
+    <ul>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ul>
+  </li>
+  <li>Fourth item</li>
+</ul> 
+
+
+[EUD Mounts - Chest] (https://github.com/ajdrew/eud-info?tab=readme-ov-file#examples-of-euds-mounted-to-armor)
 - [EUD Mounts - Magainze] ()
 
 
