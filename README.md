@@ -9,9 +9,9 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
   <li>EUD Mounts</li>
     <ul>
       <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#examples-of-euds-mounted-to-armor">Chest Mount</a></li>
-      <li>Magazine Mount</li>
+      <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#magazine-mount">Magazine Mount</a></li>
     </ul>
-  <li>Second item</li>
+  <li><a href="https://github.com/ajdrew/eud-info?tab=readme-ov-file#case-manufacturers">Case Manufacturers</a></li>
   <li>Third item
     <ul>
       <li>Indented item</li>
@@ -37,3 +37,10 @@ Currently, to put together a functional EUD that will withstand hard use, is rat
 ![EUD chest mount 1](/resources/pictures/eud-mag-mount.png)
 
 An alternative to chest mounted systems above the magazines is to mount it in front of the magazines. The common above-the-magazine mounting style may get in the way of getting magazines in and out quickly. However, mounting it in front of the magazines contributes to "tactical pregnancy" and not going prone as easily.
+
+## Case Manufacturers:
+There are only a few case manufacturers aside from the Chinesium copies. Here is the general breakdown.
+
+- <a href="https://juggernautcase.com/">Juggernaut</a> - Most protective cases with moderate device flexibility for newer devices.
+- <a href="https://kagwerks.shop/collections/operators-kits">Kagwerks</a> - Most expensive with least amount of options.
+- <a href="https://www.sandsprecision.com/nav-gear.html">S&S Precision</a> - Most device flexibility with the most accessories and lest protection.
