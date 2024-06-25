@@ -22,25 +22,31 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 </ul> 
 
 
+# Equipment
 
-## Examples of EUDs Mounted to Armor:
+## Mounting Examples:
 
-### Chest Mount
+#### Chest Mount
 | Chest Mount Example 1 | Chest Mount Example 2 |
 | ----------- | ----------- |
 | ![EUD chest mount 1](/resources/pictures/eud-chest-mount1.png) | ![EUD chest mount 2](/resources/pictures/eud-chest-mount2.png)  | 
 
 Currently, to put together a functional EUD that will withstand hard use, is rather difficult and expensive. The trick is to find an older series phone that is affordable along with a case and mount. Your plate carrier also needs to have a MOLLE field at the top of the chest or acceptable connectors for an adaptor. 
 
-### Magazine Mount
+#### Magazine Mount
 
 ![EUD chest mount 1](/resources/pictures/eud-mag-mount.png)
 
 An alternative to chest mounted systems above the magazines is to mount it in front of the magazines. The common above-the-magazine mounting style may get in the way of getting magazines in and out quickly. However, mounting it in front of the magazines contributes to "tactical pregnancy" and not going prone as easily.
 
-## Case Manufacturers:
+### Case Manufacturers:
 There are only a few case manufacturers aside from the Chinesium copies. Here is the general breakdown.
 
 - <a href="https://juggernautcase.com/">Juggernaut</a> - Most protective cases with moderate device flexibility for newer devices.
-- <a href="https://kagwerks.shop/collections/operators-kits">Kagwerks</a> - Most expensive with least amount of options.
+- <a href="https://kagwerks.shop/collections/operators-kits">Kagwerks</a> - Most expensive with least amount of device options.
 - <a href="https://www.sandsprecision.com/nav-gear.html">S&S Precision</a> - Most device flexibility with the most accessories and lest protection.
+
+### Adapters:
+- Haley Strategic - <a href="https://haleystrategic.com/end-user-device-bridge">End User Device Bridge</a>
+- Ferro Concepts - <a href="https://ferroconcepts.com/collections/general-purpose/products/adapt-molle-panel">Adapter Molle Panel</a>
+- AXL - <a href="https://www.axladvanced.com/products/mfcr-full-molle-panel">MFCR Full Molle Panel</a>
