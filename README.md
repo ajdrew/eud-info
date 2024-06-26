@@ -158,21 +158,91 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td></td>
+    <td>Samsung S22 Ultra</td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s22-ultra-endvr-phone-case.html" target="_blank">ENDVR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s22-ultra-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">X-Large</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s22-ultra-oprtr-phone-case.html" target="_blank">OPRTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">X-Large</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22+</td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s22--advntr-phone-case.html" target="_blank">ADVNTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
+  </tr>
+  <tr>
+    <td></td>
     <td>Samsung S22</td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s22-endvr-phone-case.html" target="_blank">ENDVR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Small</a></td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s22-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s22-oprtr-phone-case.html" target="_blank">OPRTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S21 Ultra</td>
+    <td><a href="https://juggernautcase.com/products/impct-galaxy-s21-ultra-phone-case.html" target="_blank">IMPCT</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S21+</td>
+    <td><a href="https://juggernautcase.com/products/impct-galaxy-s21-phone-case.html" target="_blank">IMPCT</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S21</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://juggernautcase.com/products/impct-galaxy-s21-phone-case-1.html" target="_blank">IMPCT</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>Samsung S21</td>
+    <td></td>
+    <td><a href="https://juggernautcase.com/products/sleev-galaxy-s21-phone-case.html" target="_blank">SLEEV</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a></td>
+  </tr>
+  <tr>
+  <td></td>
+    <td>Samsung S20</td>
+    <td><a href="https://juggernautcase.com/products/impct-galaxy-s20-phone-case.html" target="_blank">IMPCT</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Small</a></td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s20-oprtr-phone-case.html" target="_blank">OPRTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a></td>
+  </tr>
+  <td></td>
+    <td>Samsung S20 FE</td>
+    <td><a href="https://juggernautcase.com/products/impct-galaxy-s20-fe-phone-case.html" target="_blank">IMPCT</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
+  </tr>
+  <td></td>
+    <td>Samsung Note20</td>
+    <td><a href="https://juggernautcase.com/products/impct-note-20-phone-case.html" target="_blank">IMPCT</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
   </tr>
   <tr>
     <td>Kagwerks</td>
