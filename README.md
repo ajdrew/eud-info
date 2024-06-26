@@ -120,13 +120,11 @@ There other types of devices that offer more protection than your standard mobil
     <td><a href="https://juggernautcase.com/products/galaxy-s24-endvr-phone-case.html" target="_blank">ENDVR</a></td>
     <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Small</a><td>
   </tr>
-
   <tr>
     <td></td>
     <td></td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
     <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a><td>
-  </tr>
   </tr>
   <tr>
     <td></td>
@@ -275,10 +273,6 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
 </table> 
 
-
-
-https://thyrm.com/product/darkvault-2/
-https://thyrm.com/product/darkvault/
 
 
 
