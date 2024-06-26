@@ -46,18 +46,18 @@ An alternative to chest mounted systems above the magazines is to mount it in fr
 ## Case Manufacturers
 There are only a few case manufacturers aside from the Chinesium copies. Here is the general breakdown.
 
-- <a href="https://juggernautcase.com/">Juggernaut</a> - Most protective cases with moderate device flexibility for newer devices.
-- <a href="https://kagwerks.shop/collections/operators-kits">Kagwerks</a> - Most expensive with least amount of device options.
-- <a href="https://www.sandsprecision.com/nav-gear.html">S&S Precision</a> - Most device flexibility with the most accessories and lest protection.
-- <a href="https://thyrm.com/product-category/darkvault/">Thyrm</a> - Very protective but very bulky with moderate device flexibility.
+- <a href="https://juggernautcase.com/" target="_blank">Juggernaut</a> - Most protective cases with moderate device flexibility for newer devices.
+- <a href="https://kagwerks.shop/collections/operators-kits" target="_blank">Kagwerks</a> - Most expensive with least amount of device options.
+- <a href="https://www.sandsprecision.com/nav-gear.html" target="_blank">S&S Precision</a> - Most device flexibility with the most accessories and lest protection.
+- <a href="https://thyrm.com/product-category/darkvault/" target="_blank">Thyrm</a> - Very protective but very bulky with moderate device flexibility.
 
 ## Plate Carrier Adapters
 If your plate carrier or rig does not have molle in the correct areas to mount your device, there are adapters.
-- Haley Strategic - <a href="https://haleystrategic.com/end-user-device-bridge">End User Device Bridge</a>
-- Ferro Concepts - <a href="https://ferroconcepts.com/collections/general-purpose/products/adapt-molle-panel">Adapter Molle Panel</a>
-- AXL - <a href="https://www.axladvanced.com/products/mfcr-full-molle-panel">MFCR Full Molle Panel</a>
+- Haley Strategic - <a href="https://haleystrategic.com/end-user-device-bridge" target="_blank">End User Device Bridge</a>
+- Ferro Concepts - <a href="https://ferroconcepts.com/collections/general-purpose/products/adapt-molle-panel" target="_blank">Adapter Molle Panel</a>
+- AXL - <a href="https://www.axladvanced.com/products/mfcr-full-molle-panel" target="_blank">MFCR Full Molle Panel</a>
 
-S&S Precision also makes a stand-alone harness for the NavBoard FlipLite. <a href="https://www.sandsprecision.com/nav-gear/navboard-fliplite-1.html">https://www.sandsprecision.com/nav-gear/navboard-fliplite-1.html<a/>
+S&S Precision also makes a stand-alone harness for the NavBoard FlipLite. <a href="https://www.sandsprecision.com/nav-gear/navboard-fliplite-1.html" target="_blank">https://www.sandsprecision.com/nav-gear/navboard-fliplite-1.html<a/>
 
 ## Equipment Combinations
 Here are a couple of equipment combinations below. This considers three things, the device, case, and molle mount.
@@ -105,8 +105,14 @@ There other types of devices that offer more protection than your standard mobil
   <tr>
     <td>Juggernaut</td>
     <td>Samsung S24 Ultra</td>
-    <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-endvr-phone-case.html">ENDVR</a>, <a href="https://juggernautcase.com/products/galaxy-s24-ultra-advntr-phone-case.html">ADVNTR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html">Large Mounts</a></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-endvr-phone-case.html" target="_blank">ENDVR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large Mounts</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">X-Large Mounts</a></td>
   </tr>
   <tr>
     <td></td>
@@ -114,6 +120,7 @@ There other types of devices that offer more protection than your standard mobil
     <td>ENDVR, ADVNTR</td>
     <td>Large Mounts</td>
   </tr>
+
   <tr>
     <td></td>
     <td>Samsung S23 Ultra</td>
