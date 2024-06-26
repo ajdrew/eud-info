@@ -94,6 +94,28 @@ There other types of devices that offer more protection than your standard mobil
 - MP5 Radio
 
 ## Device Matrix
+
+ <table>
+  <tr>
+    <th><b>Manufacturer</b></th>
+    <th><b>Device</b></th>
+    <th><b>Mount</b></th>
+  </tr>
+  <tr>
+    <td>Juggernaut</td>
+    <td>Kagwerks</td>
+    <td>S&S Precition</td>
+    <td>Thyrm</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 
+
+
+
 https://thyrm.com/product/darkvault-2/
 https://thyrm.com/product/darkvault/
 
