@@ -188,7 +188,7 @@ There other types of devices that offer more protection than your standard mobil
   <tr>
     <td>S&S Precition</td>
     <td>Samsung S24, S24 Ultra</td>
-    <td rowspan="8"><a href="https://www.sandsprecision.com/nav-gear/navboard-fliplite.html" target="_blank">NavBoard FlipLite</a></td>
+    <td rowspan="8" colspan="2"><a href="https://www.sandsprecision.com/nav-gear/navboard-fliplite.html" target="_blank">NavBoard FlipLite</a></td>
   </tr>
   <tr>
     <td></td>
