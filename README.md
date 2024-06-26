@@ -221,7 +221,7 @@ There other types of devices that offer more protection than your standard mobil
   <tr>
     <td>Thyrm</td>
     <td>Samsung S24, S24 Ultra</td>
-    <td rowspan="8" colspan="2"><a href="https://thyrm.com/product/darkvault/" target="_blank">DarkVault</a></td>
+    <td rowspan="7" colspan="2"><a href="https://thyrm.com/product/darkvault/" target="_blank">DarkVault</a></td>
   </tr>
   <tr>
     <td></td>
