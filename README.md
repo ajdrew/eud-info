@@ -129,26 +129,32 @@ There other types of devices that offer more protection than your standard mobil
   <tr>
     <td></td>
     <td>Samsung S23 Ultra</td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s23-ultra-endvr-phone-case.html" target="_blank">ENDVR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s23-ultra-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">X-Large</a></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S23</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s23-endvr-phone-case.html" target="_blank">ENDVR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Small</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>Samsung S22 Ultra</td>
     <td></td>
-    <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s23-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a></td>
   </tr>
   <tr>
     <td></td>
-    <td>Samsung S22+</td>
     <td></td>
-    <td></td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s23-oprtr-phone-case.html" target="_blank">OPRTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a></td>
   </tr>
   <tr>
     <td></td>
