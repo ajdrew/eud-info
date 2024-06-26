@@ -187,6 +187,35 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td>S&S Precition</td>
+    <td>Samsung S24, S24 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S23, S23+, S23 FE, S23 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22 5G, S22+ 5G, S23 Ultra 5G</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S21, S21 5G, S21 FE 5G, S21+ 5G, S21 Ultra 5G</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S20, S20 FE, S20+, S20 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung Note8, Note9, Note10, Note10+, Note20, Note20 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S10, S10e, S10+, S10 5G, S10 Lite</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S9, S9+</td>
   </tr>
   <tr>
     <td>Thyrm</td>
