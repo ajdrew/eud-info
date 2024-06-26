@@ -106,25 +106,25 @@ There other types of devices that offer more protection than your standard mobil
     <td>Juggernaut</td>
     <td>Samsung S24 Ultra</td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-endvr-phone-case.html" target="_blank">ENDVR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a><td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">X-Large</a><td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">X-Large</a></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S24</td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-endvr-phone-case.html" target="_blank">ENDVR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Small</a><td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Small</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a><td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a></td>
   </tr>
   <tr>
     <td></td>
