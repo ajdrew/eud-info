@@ -106,26 +106,26 @@ There other types of devices that offer more protection than your standard mobil
     <td>Juggernaut</td>
     <td>Samsung S24 Ultra</td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-endvr-phone-case.html" target="_blank">ENDVR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large Mounts</a><td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a><td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">X-Large Mounts</a><td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">X-Large</a><td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S24</td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-endvr-phone-case.html" target="_blank">ENDVR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Small Mounts</a><td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Small</a><td>
   </tr>
 
   <tr>
     <td></td>
     <td></td>
     <td><a href="https://juggernautcase.com/products/galaxy-s24-advntr-phone-case.html" target="_blank">ADVNTR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium Mounts</a><td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Medium</a><td>
   </tr>
   </tr>
   <tr>
@@ -182,7 +182,7 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td></td>
-    <td>Samsung NOTE8</td>
+    <td>Samsung Note8</td>
     <td colspan="2"><a href="https://kagwerks.shop/collections/operators-kits/products/kagwerks-note-8-kit" target="_blank">Kit</a></td>
   </tr>
   <tr>
@@ -220,6 +220,58 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td>Thyrm</td>
+    <td>Samsung S24, S24 Ultra</td>
+    <td rowspan="8" colspan="2"><a href="https://thyrm.com/product/darkvault/" target="_blank">DarkVault</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S23, S23+, S23 FE, S23 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22 5G, S22+ 5G, S23 Ultra 5G</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S21, S21 5G, S21 FE 5G, S21+ 5G, S21 Ultra 5G</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S20, S20 FE, S20+, S20 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung Note8, Note9, Note10, Note10+, Note20, Note20 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S10, S10e, S10+, S10 5G, S10 Lite</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>Samsung S6 - S24</td>
+    <td rowspan="2" colspan="2"><a href="https://thyrm.com/product/darkvault-2/" target="_blank">DarkVault 2.0 Regular</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S10e, S20FE, S21 FE</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S8+ - S24+</td>
+    <td rowspan="4" colspan="2"><a href="https://thyrm.com/product/darkvault-2/" target="_blank">DarkVault 2.0 Large</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S20 Ultra - S24 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S23 FE</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung A13, A23, A32</td>
   </tr>
 </table> 
 
