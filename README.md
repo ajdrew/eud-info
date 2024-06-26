@@ -130,6 +130,10 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td></td>
+    <td>Samsung S23 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
     <td>Samsung S23</td>
   </tr>
   <tr>
@@ -146,20 +150,26 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td></td>
-    <td>Samsung S22</td>
+    <td>Samsung S21</td>
   </tr>
   <tr>
     <td></td>
-    <td>Samsung S22</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Samsung S22</td>
+    <td>Samsung S21</td>
   </tr>
   <tr>
     <td>Kagwerks</td>
     <td>Samsung S20</td>
     <td colspan="2"><a href="https://kagwerks.shop/collections/operators-kits/products/kagwerks-galaxy-s20-operators-kit" target="_blank">Operators Kit</a>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S9</td>
+    <td colspan="2"><a href="https://kagwerks.shop/collections/operators-kits/products/kagwerks-galaxy-s9-kit" target="_blank">Kit</a>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung NOTE8</td>
+    <td colspan="2"><a href="https://kagwerks.shop/collections/operators-kits/products/kagwerks-note-8-kit" target="_blank">Kit</a>
   </tr>
   <tr>
     <td>S&S Precition</td>
