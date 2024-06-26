@@ -103,8 +103,15 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td>Juggernaut</td>
+    <td>Samsung S20</td>
+  </tr>
+  <tr>
     <td>Kagwerks</td>
+  </tr>
+  <tr>
     <td>S&S Precition</td>
+  </tr>
+  <tr>
     <td>Thyrm</td>
   </tr>
   <tr>
