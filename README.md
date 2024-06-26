@@ -103,7 +103,43 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td>Juggernaut</td>
-    <td>Samsung S20</td>
+    <td>Samsung S24 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S24</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S23 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S23</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22 Ultra</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22+</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Samsung S22</td>
   </tr>
   <tr>
     <td>Kagwerks</td>
