@@ -99,15 +99,20 @@ There other types of devices that offer more protection than your standard mobil
   <tr>
     <th><b>Manufacturer</b></th>
     <th><b>Device</b></th>
+    <th><b>Case</b></th>
     <th><b>Mount</b></th>
   </tr>
   <tr>
     <td>Juggernaut</td>
     <td>Samsung S24 Ultra</td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-endvr-phone-case.html">ENDVR</a>, <a href="https://juggernautcase.com/products/galaxy-s24-ultra-advntr-phone-case.html">ADVNTR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html">Large Mounts</a></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S24</td>
+    <td>ENDVR, ADVNTR</td>
+    <td>Large Mounts</td>
   </tr>
   <tr>
     <td></td>
@@ -149,11 +154,6 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td>Thyrm</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
   </tr>
 </table> 
 
