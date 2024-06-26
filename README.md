@@ -158,6 +158,8 @@ There other types of devices that offer more protection than your standard mobil
   </tr>
   <tr>
     <td>Kagwerks</td>
+    <td>Samsung S20</td>
+    <td><a href="https://kagwerks.shop/collections/operators-kits/products/kagwerks-galaxy-s20-operators-kit" target="_blank">Operators Kit</a>>
   </tr>
   <tr>
     <td>S&S Precition</td>
