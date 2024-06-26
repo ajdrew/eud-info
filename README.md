@@ -131,30 +131,44 @@ There other types of devices that offer more protection than your standard mobil
   <tr>
     <td></td>
     <td>Samsung S23 Ultra</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S23</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S22 Ultra</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S22+</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S22</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S21</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>Samsung S21</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Kagwerks</td>
