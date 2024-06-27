@@ -34,23 +34,14 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 
  <table>
   <tr>
-    <th><b>Manufacturer</b></th>
-    <th><b>Device</b></th>
-  </tr>
-  <tr>
     <td><img src="/resources/pictures/eud-chest-mount1.png" alt="EUD Chest Mount 1">
+    <td><img src="/resources/pictures/eud-chest-mount2.png" alt="EUD Chest Moutn 2">
   </tr>
   <tr>
-    <td>Juggernaut</td>
-    <td>Samsung S24 Ultra</td>
-    <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-endvr-phone-case.html" target="_blank">ENDVR</a></td>
-    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
+    <td>JChest Mount Example 1</td>
+    <td>Chest Mount Example 2</td>
   </tr>
 </table>
-| Chest Mount Example 1 | Chest Mount Example 2 |
-| ----------- | ----------- |
-| ![EUD chest mount 1](/resources/pictures/eud-chest-mount1.png) | ![EUD chest mount 2](/resources/pictures/eud-chest-mount2.png)  | 
-
 Currently, to put together a functional EUD that will withstand hard use, is rather difficult and expensive. The trick is to find an older series phone that is affordable along with a case and mount. Your plate carrier also needs to have a MOLLE field at the top of the chest or acceptable connectors for an adaptor. 
 
 #### Magazine Mount
