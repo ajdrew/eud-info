@@ -31,6 +31,22 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 ## Mounts
 
 #### Chest Mount
+
+ <table>
+  <tr>
+    <th><b>Manufacturer</b></th>
+    <th><b>Device</b></th>
+  </tr>
+  <tr>
+    <td><img src="/resources/pictures/eud-chest-mount1.png" alt="EUD Chest Mount 1">
+  </tr>
+  <tr>
+    <td>Juggernaut</td>
+    <td>Samsung S24 Ultra</td>
+    <td><a href="https://juggernautcase.com/products/galaxy-s24-ultra-endvr-phone-case.html" target="_blank">ENDVR</a></td>
+    <td><a href="https://juggernautcase.com/products/armor.mount-plate-carrier-pals/molle-phone-.html" target="_blank">Large</a></td>
+  </tr>
+</table>
 | Chest Mount Example 1 | Chest Mount Example 2 |
 | ----------- | ----------- |
 | ![EUD chest mount 1](/resources/pictures/eud-chest-mount1.png) | ![EUD chest mount 2](/resources/pictures/eud-chest-mount2.png)  | 
@@ -96,11 +112,14 @@ Both Samsung and Panisonic make "rugged" devices. These are devices that are bet
 
 ### Garmin Rino
 Garmin has a model of their GPS devices with GMRS radio channels. This does location sharing over a data connection that is over a GMRS sub channel. It is also a very simple voice communications over the regular GMRS channels. This will require a GMRS license for a team to use them. This is a very simple but effective way to run voice, navigation, and team info without having a degree in tech.
+- GMRS Information - https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs
 - FCC GMRS License - https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs
 - Garmin Rino - https://www.garmin.com/en-US/p/533999
 
 ### MP5 Radio
-Persistent Systems has created a system based on their MP5 Wave radio. The MP5 is the most advanced radio at this time (2024). Their system organizes the radio, PTT wiring, and ATAK display together in the top of the line setup. Unfortunately, the pricetag reflects the quality of their system. In order to outfit with the MP5 radio, dual PTT, ATAK display, and all the cabling, it will most likely cost $20-30k. Here are some good resources.
+Persistent Systems has created a system based on their MP5 Wave radio. The MP5 is the most advanced radio at this time (2024). Their system organizes the radio, PTT wiring, and ATAK display together in a top of the line setup. Unfortunately, the pricetag reflects the quality of their system. In order to outfit with the MP5 radio, dual PTT, ATAK display, and all the cabling, it will most likely cost $20-30k per kit per person.
+
+More Information:
 - MP5 - https://www.persistentsystems.com/mpu5/
 - ATAK Display - https://www.persistentsystems.com/rugged-display-controller-warfighters/
 - Dual PTT - https://www.persistentsystems.com/ptt-overview/
