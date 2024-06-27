@@ -87,11 +87,25 @@ Here are a couple of equipment combinations below. This considers three things, 
 - Thyrm DarkVault or DarkVault 2.0 - https://thyrm.com/product-category/darkvault/
 
 ## Alternatives
-There other types of devices that offer more protection than your standard mobile device such as:
+There are a couple of alternatives to the typical ATAK system that is becoming the defacto standard.
+
+### Devices
+Both Samsung and Panisonic make "rugged" devices. These are devices that are better suited for hard use and harsh environments. 
 - Panisonic N1 Tactical (newer model of the FZ-N1).
 - Samsung Galaxy S6 and S8 Active (older phones that were built to military specs as early ATAK devices).
-- Garmin Rino series devices (location sharing and GMRS radio only).
-- MP5 Radio
+
+### Garmin Rino
+Garmin has a model of their GPS devices with GMRS radio channels. This does location sharing over a data connection that is over a GMRS sub channel. It is also a very simple voice communications over the regular GMRS channels. This will require a GMRS license for a team to use them. This is a very simple but effective way to run voice, navigation, and team info without having a degree in tech.
+- FCC GMRS License - https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs
+- Garmin Rino - https://www.garmin.com/en-US/p/533999
+
+### MP5 Radio
+Persistent Systems has created a system based on their MP5 Wave radio. The MP5 is the most advanced radio at this time (2024). Their system organizes the radio, PTT wiring, and ATAK display together in the top of the line setup. Unfortunately, the pricetag reflects the quality of their system. In order to outfit with the MP5 radio, dual PTT, ATAK display, and all the cabling, it will most likely cost $20-30k. Here are some good resources.
+- MP5 - https://www.persistentsystems.com/mpu5/
+- ATAK Display - https://www.persistentsystems.com/rugged-display-controller-warfighters/
+- Dual PTT - https://www.persistentsystems.com/ptt-overview/
+
+
 
 ## Device Matrix
 
