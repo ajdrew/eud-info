@@ -31,22 +31,16 @@ EUDs (End User Devices) are the hot ticket item for your tactical kit. They are 
 ## Mounts
 
 #### Chest Mount
-
  <table>
   <tr>
     <td><img src="/resources/pictures/eud-chest-mount1.png" alt="EUD Chest Mount 1">
     <td><img src="/resources/pictures/eud-chest-mount2.png" alt="EUD Chest Moutn 2">
   </tr>
-  <tr>
-    <td>JChest Mount Example 1</td>
-    <td>Chest Mount Example 2</td>
-  </tr>
 </table>
 Currently, to put together a functional EUD that will withstand hard use, is rather difficult and expensive. The trick is to find an older series phone that is affordable along with a case and mount. Your plate carrier also needs to have a MOLLE field at the top of the chest or acceptable connectors for an adaptor. 
 
 #### Magazine Mount
-
-![EUD chest mount 1](/resources/pictures/eud-mag-mount.png)
+<img src="/resources/pictures/eud-mag-mount.png" alt="EUD Magazine Mount">
 
 An alternative to chest mounted systems above the magazines is to mount it in front of the magazines. The common above-the-magazine mounting style may get in the way of getting magazines in and out quickly. However, mounting it in front of the magazines contributes to "tactical pregnancy" and not going prone as easily.
 
