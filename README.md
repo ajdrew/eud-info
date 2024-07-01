@@ -41,12 +41,10 @@ Currently, to put together a functional EUD that will withstand hard use, is rat
 
 #### Magazine Mount
 <img src="/resources/pictures/eud-mag-mount.png" alt="EUD Magazine Mount">
-
 An alternative to chest mounted systems above the magazines is to mount it in front of the magazines. The common above-the-magazine mounting style may get in the way of getting magazines in and out quickly. However, mounting it in front of the magazines contributes to "tactical pregnancy" and not going prone as easily.
 
 ## Case Manufacturers
 There are only a few case manufacturers aside from the Chinesium copies. Here is the general breakdown.
-
 - <a href="https://juggernautcase.com/" target="_blank">Juggernaut</a> - Most protective cases with moderate device flexibility for newer devices.
 - <a href="https://kagwerks.shop/collections/operators-kits" target="_blank">Kagwerks</a> - Most expensive with least amount of device options.
 - <a href="https://www.sandsprecision.com/nav-gear.html" target="_blank">S&S Precision</a> - Most device flexibility with the most accessories and lest protection.
@@ -61,31 +59,13 @@ If your plate carrier or rig does not have molle in the correct areas to mount y
 S&S Precision also makes a stand-alone harness for the NavBoard FlipLite. <a href="https://www.sandsprecision.com/nav-gear/navboard-fliplite-1.html" target="_blank">https://www.sandsprecision.com/nav-gear/navboard-fliplite-1.html<a/>
 
 ## Equipment Combinations
-Here are a couple of equipment combinations below. This considers three things, the device, case, and molle mount.
-
-*The best device with the most protection:*
-- Samsung Galaxy S20 5G SM-G981U1
-- Juggernaut IMPCT case
-- Juggernaut Armor.Mount Plate Carrier PALS/MOLLE
-- OR Juggernaut Inductive Charge Armor.Mount
-- NOTE: This gets the user into a modern device with the most protective case and readily available armor mounts with or without inductive charging. 
-
-*Alternative best device with most protection:*
-- Samsung Galaxy S20 5G SM-G981U1
-- 
+The majic combination is an older device with a Juggernaut mount that is still available. The best older device is a Samsung Galaxy S20 SM-G981U1. The Juggernaut mount will provide the least bulky and most protective mount. The S20 is also small enough to be used with both a regular or inductive charging mount.
 
 *Device with removable battery:*
 - Panasonic FZ-N1 (Tactical Edition) (The model without the barcode scanner) (possible issue due to age of Android)
 - Juggernaut IMPCT Case -  https://juggernautcase.com/products/panasonic-fz-n1-toughpad-case-tactical-version.html
 - Juggernaut Armor Mount - https://juggernautcase.com/products/fz-n1-armor-mount-plate-carrier-pals-molle.html 
 
-*General devices - S&S Precision:*
-- Mobile devices with dimensions less than 6.75” L x 3.5” W.
-- S&S NavBoard FlipLite - https://www.sandsprecision.com/nav-gear/navboard-fliplite.html 
-
-*General devices - Thyrm:*
-- Mobile devices with dimensions less than ...
-- Thyrm DarkVault or DarkVault 2.0 - https://thyrm.com/product-category/darkvault/
 
 ## Alternatives
 There are a couple of alternatives to the typical ATAK system that is becoming the defacto standard.
@@ -391,4 +371,11 @@ There are options within ATAK (such as the Hammer plug-in) that may work with Ba
 - https://docs.google.com/document/d/e/2PACX-1vQ-CQPKQoxwUs22BxCVVWEgoi6T5WjK5gj4A6dTuFdoL3xQOzWndhEsBhI49IOAK_8EMrfJ6XgIs75I/pub
 - https://play.google.com/store/apps/details?id=com.atakmap.android.gbr.vx.plugin&hl=en_US
 
+## Radios
+
+
+
 ## PTT
+- TAC-SKY - https://tstac-sky.com/products/tac-sky-tactical-headset-extension-line-u174-plug-ptt-with-bluetooth-compatible-with-mobile-phone-for-comtac-amp-sordin-etc-series-headsets
+
+
